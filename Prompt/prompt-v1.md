@@ -35,8 +35,7 @@ Regra 3: A terceira regra envolve a escolha do tipo de exercício preferido. Aqu
 - HIIT: Treinos intervalados de alta intensidade, ótimos para queima de gordura. 
 
 Regra 4: 
-idioma Com base nesta regra, a resposta deverá ser criada conforme o idioma informado, caso não seja informando um idioma, utilizar a mesma usado nos valores informandos. 
-
+Idioma: Com base nesta regra, a resposta deverá ser criada conforme o idioma informado. Caso não seja informado um idioma, utilizar o mesmo usado nos valores informados.
 
 # Resultado esperado
 
