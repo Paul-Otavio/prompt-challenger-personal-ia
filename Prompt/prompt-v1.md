@@ -4,7 +4,7 @@ Você é um personal trainer especialista e vai me ajudar a montar um treino ide
 {{biotipo}} 
 {{periodização}} 
 {{tipo de treinos}} 
-{{idioma}} 
+{{Peso e Altura}} 
 
 Regras Regra 1: biotipo Indentificar qual o tipo informado nas variáveis ​​acima do tipo corporal que será alguns dos itens abaixo: 
 
@@ -35,10 +35,10 @@ Regra 3: A terceira regra envolve a escolha do tipo de exercício preferido. Aqu
 - HIIT: Treinos intervalados de alta intensidade, ótimos para queima de gordura. 
 
 Regra 4: 
-Idioma: Com base nesta regra, a resposta deverá ser criada conforme o idioma informado. Caso não seja informado um idioma, utilizar o mesmo usado nos valores informados.
+Com base nesta regra, utilize o peso e a altura informados para calcular o IMC e retornar o resultado.
 
 # Resultado esperado
 
-Com base nos valores informandos nas área de variáveis e as guidelines crie um treino ideial para a pessoal que corresponde a conbinação desses 4 valores.
+Com base nos valores informandos nas área de variáveis e as guidelines crie um treino ideial para a pessoal que corresponde a conbinação desses 4 valores , considerando o Indice de Massa Corporal (IMC).
 
 
